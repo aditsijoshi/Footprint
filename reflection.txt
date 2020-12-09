@@ -1,0 +1,22 @@
+What did you learn during this project?
+    We learned how to navigate using and integrating multiple languages and truly got to experience a 
+    full stack project. As each team member had a different set of skills, we relied on each other to
+    fill in individual gaps of knowledge, especially when it came to coding with less familiar languages.
+    We also learned about how server requests work and using the terminal to run our web app. 
+
+What did you enjoy during this project?
+    Through this project we enjoyed learning how frontend and backend development connect. Having a product 
+    that we built from scratch gave us also further insight on how our previous assessments were built. 
+    We also enjoyed collaborating and learning from each other as each of our team members had their own strengths. 
+
+What did you find challenging or frustrating during this project?
+    At first, we were using the link in the web preiveiw to launch our project. At the time, we did not know
+    that this would not allow outputs in the console so we could not test our code. Once we began launching the
+    project from the network icon, debugging became much easier. We also found data proccesing frustrating because
+    any extra commas in the csv file would cause the program to break. We also found sending data back and forth from 
+    the frontend to backend to be very challenging especially because we had no expireience programming a server.
+
+What did you find particularly helpful for your learning during this project?
+    Having access to previous assessments was especially helpful when writting the server code and websites like
+    Stack Overflow and W3schools helped us in developing the frontend UI and the output algorithm.TA's in the IPL 
+    were also able to answer many of our questions as well. 

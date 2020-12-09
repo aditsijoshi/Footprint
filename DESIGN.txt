@@ -1,0 +1,31 @@
+Backend Algorithm:
+  *A Country object is defined by its name (string) and CO2 emission (double)
+  1. Sort and store the list of all countries from least to greatest emmisions.
+      - We wanted to sort country objects from smallest to largest by its emmision ouput so we used a Priority 
+        queue because it allowed us to customize the comparator to only compare by emmision.
+  2. Get country object associated with user inputed country name. 
+  3. Determine target emmisions through country object.
+  4. Subtract emmision outputs from the list of all countires until the target output has reached less than or
+     equal to 0. 
+      - Because the list of all countries is sorted from least to greatest emmisions, the next best country to 
+        subtact from the target to create the longest combination will always be the next country.
+      - Overrode the equals method to compare the names of this and other country object. Chose to do this so that
+        Output algorithm can compare between two Country objects and make sure the return set does not include the 
+        country that the user inputed.
+  5. Return set of subtracted countires
+    
+
+Frontend: 
+  We chose to use Google geoChart because it had clear documentation and did not require us to import a library.
+  This was more convenient since we were not familiar with importing libraries on Ed. Beyond displaying a highlighted map,
+  GeoChart can also be used to highlight counries with different oppacity levels depending on assigned numbers so we used 
+  this feature to convey the emission of individual countires within the resulting set. In a side navigation bar, we also 
+  included alternative data visulaizations generated in Tableau. Each display has their own advantage in conveying emissions. 
+  It also allowed us to gain expirience using other data visulaization tools.
+
+
+
+
+
+
+
